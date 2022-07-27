@@ -3,7 +3,7 @@
 
 <h1>Project Name</h1>
 <h2>Comfy Travel</h2>
-<h6>A travel application<h6/>
+<p>A travel application<p/>
 
 <h2>Link to site</h2>
 <p>https://comfy-travel.netlify.app/<p/>
