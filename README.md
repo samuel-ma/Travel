@@ -2,7 +2,7 @@
 
 
 <h1>Project Name</h1>
-<h6>Comfy Travel</h6>
+<h2>Comfy Travel</h2>
 <h6>A travel application<h6/>
 
 <h2>Link to site</h2>
